@@ -3,4 +3,15 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+![Scientist](/assets/img/zack_poster.jpg)
+
+## Background
+
+I’m a scientist, trained to look at life from a microscopic perspective. Through painting I’ve taken to observing life from a more macroscopic perspective. Painting provides a totally new lens to look at the world around me, it allows me to truly see the colors and the shapes on a way I’ve never appreciated.
+
+I tend to paint large paintings of large animals, in order to give the sense of scale and magnificence of these creatures. I also enjoy revealing the process of painting itself through my paintings, which is why many of the brush strokes are more obvious, giving the impression of a true transformation of the animal into a painting.
+
+
+![Artist](/assets/img/artist1.jpg)
+
+
