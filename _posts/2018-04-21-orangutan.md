@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "“Blue gorilla”"
+title: "“Rainforest guard”"
 author: "Zack Scholl"
 categories: painting
 tags: [acrylic]
-image: gorilla.jpg
+image: orangutan.jpg
 ---
+
+30 x 40, acrylic on canvas.
