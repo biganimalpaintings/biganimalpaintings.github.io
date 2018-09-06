@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "“Blue horn”"
+title: "“Bison herd”"
 author: "Zack Scholl"
 categories: painting
 tags: [acrylic, bison]
-image: bison3.jpg
+image: bison_landscape.jpg
 ---
 
-24 x 36 on canvas.
+24 x 36, acrylic on canvas.

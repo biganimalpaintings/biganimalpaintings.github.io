@@ -3,7 +3,7 @@ layout: post
 title: "“Rainforest guard”"
 author: "Zack Scholl"
 categories: painting
-tags: [acrylic]
+tags: [acrylic, ape]
 image: orangutan.jpg
 ---
 
