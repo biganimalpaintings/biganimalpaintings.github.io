@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Art . Zack Scholl"
+title:		           "Big Animal Paintings"
 description:	       "My latest paintings and art"
 author:              "Zack Scholl"
 
